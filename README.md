@@ -8,9 +8,9 @@ This project simplifies the payment process for users by generating payment link
 
 ## Features
 
-- Dark/light mode
 - Automated payment link generation
 - Customizable parameters
+- Multi-step login, signup, forget password and change phone number
 
 ## Table of contents
 
@@ -65,6 +65,70 @@ This project simplifies the payment process for users by generating payment link
 
    #
 
+ #### Dashboard:
+
+  <div align="center">
+
+![App Screenshot](https://github.com/user-attachments/assets/ffc10443-752b-4bfc-97bf-47ae1895ed0c)
+
+  </div>
+
+   #
+
+  #### Panel:
+
+  <div align="center">
+
+![App Screenshot](https://github.com/user-attachments/assets/477700b8-629e-4c82-81d0-14f5be702c17)
+
+  </div>
+
+   #
+
+
+   
+   #### Multi step form:
+
+  <div align="center">
+
+![App Screenshot](https://github.com/user-attachments/assets/ec04cc73-19eb-4d2e-a0aa-cf132e8d2dca)
+
+
+  </div>
+
+   #
+
+ #### Settings:
+
+  <div align="center">
+
+![App Screenshot](https://github.com/user-attachments/assets/4b5fd14d-b271-473e-af96-5a9441c228ce)
+
+  </div>
+
+   #
+
+ #### Help desk:
+
+  <div align="center">
+
+![App Screenshot](https://github.com/user-attachments/assets/982f46fa-fa4c-4eb0-bcc1-1a084e7e94b9)
+
+
+  </div>
+
+   #
+
+ #### Ticket messenger:
+
+  <div align="center">
+
+![App Screenshot](https://github.com/user-attachments/assets/bc453bc3-2743-46e0-aa21-bb51e8f7c1df)
+
+  </div>
+
+   #
+   
   #### 404 error page:
 
   <div align="center">
