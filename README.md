@@ -1,30 +1,140 @@
-# React + TypeScript + Vite
+> [!NOTE]  
+> This repository is a sample project intended to demonstrate my coding skills. It is not the primary repository used by the team, which includes multiple branches and commits. For security reasons, sensitive information such as API keys and environment files has been excluded. This project is shared with permission to showcase my work. ✅
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# TRPOS :credit_card: <a id="trpos"></a>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project simplifies the payment process for users by generating payment links for purchased products. By leveraging key information such as the website, price, sales percentage, and product details, it creates seamless and efficient payment links, enhancing the user experience.
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- Dark/light mode
+- Automated payment link generation
+- Customizable parameters
 
-- Configure the top-level `parserOptions` property like this:
+## Table of contents
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- [TRPOS](#trpos)
+  * [Features](#features)
+  * [Table of contents](#table-of-contents)
+  * [Screenshots](#screenshots)
+  * [Packages](#packages)
+  * [Style](#style)
+  * [API Reference](#api-reference)
+  * [Badges](#badges)
+  * [Contributing](#contributing)
+  * [Feedback](#feedback)
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Screenshots
+
+#### Login:
+
+  <div align="center">
+
+![App Screenshot](https://github.com/user-attachments/assets/fd33a6b8-e7b8-4f30-82a9-fd4893b9d40d)
+
+  </div>
+  
+  #
+
+#### Signup:
+ <div align="center">
+
+![App Screenshot](https://github.com/user-attachments/assets/06a1b249-dee1-46c2-aea8-426c78ac4cf6)
+  </div>
+  
+  #
+
+  #### Forget password:
+
+  <div align="center">
+
+![App Screenshot](https://github.com/user-attachments/assets/7bb5f1c7-cb79-4116-bcfe-49bf1be9a300)
+
+  </div>
+
+   #
+
+   #### Change phone number:
+
+  <div align="center">
+
+![App Screenshot](https://github.com/user-attachments/assets/9d6f5eb8-7c53-4bdb-818b-2880210bda79)
+
+  </div>
+
+   #
+
+  #### 404 error page:
+
+  <div align="center">
+
+![App Screenshot](https://github.com/user-attachments/assets/52a9818a-28a9-47c7-9376-c1a3eb0b65ae)
+
+  </div>
+  
+  #
+
+#### Mobile view:
+
+  <div align="center">
+
+![App Screenshot](https://github.com/user-attachments/assets/c6f84b5d-68d4-4a89-ba32-69c8636031b6)
+
+  </div>
+
+## Packages
+
+These packages are used in this project:
+
+- TypeScript
+- Redux toolkit
+- Yup
+- Axios
+- React-hook-form
+- React-router-dom
+- Ant Design
+- React-icons
+- React-otp-input
+- React-infinite-scroller
+- React-top-loading-bar
+- Reactjs-popup
+- Classnames
+- Lodash
+- Jwt-decode
+- Colord
+- Gulp
+- Styled-components
+
+
+## Style
+2 types of styles were used in the project:
+
+- CSS3
+- Tailwind
+
+
+## API Reference
+
+- [Axios](https://axios-http.com/) is a promise-based HTTP client for the browser and node.js. In this project Axios is used to access the API.
+
+- This project utilizes an API developed by the company's backend team.
+
+## Badges
+
+[![MIT License](https://img.shields.io/github/repo-size/Farimah71/TRPOS?style=flat-square)](https://choosealicense.com/licenses/mit/)
+
+
+## Contributing
+
+Contributions are always welcome! :seedling:
+
+I would warmly welcome your contributions to this project if you think you can optimize or add some new features to it.
+
+
+
+## Feedback
+
+If you have any feedback, please feel free to reach out to me at farimah.fattahi2000@gmail.com. :email:
+
+Please let me know if you enjoyed this app by staring it! :star:
